@@ -16,7 +16,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/jvmazagao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="jvmazagao" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jvmazagao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jvmazagao/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jvmazagao/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jvmazagao/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10608678" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10608678" height="30" width="40" /></a>
 <a href="https://kaggle.com/jvmazagao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="jvmazagao" height="30" width="40" /></a>
 <a href="https://instagram.com/jvmazagao" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jvmazagao" height="30" width="40" /></a>
