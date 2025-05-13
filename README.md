@@ -102,7 +102,7 @@ const joao = {
 ## 🌱 Fun Facts
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jvmazagao/jvmazagao/main/dist/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/jvmazagao/jvmazagao/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </div>
 
 - 🎯 System architecture enthusiast
