@@ -81,7 +81,8 @@ const joao = {
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jvmazagao&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=jvmazagao&theme=radical" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jvmazagao&theme=radical" alt="GitHub Streak" /></a>
+  
 </div>
 
 ## 🏆 Top Languages
